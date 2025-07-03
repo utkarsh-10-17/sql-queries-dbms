@@ -1,0 +1,10 @@
+# requirements.txt
+
+# MySQL database connector
+mysql-connector-python==8.4.0
+
+# Optional: SQLAlchemy if you want to work with ORM or run raw SQL scripts more flexibly
+sqlalchemy==2.0.30
+
+# Optional: Jupyter Notebook (helpful for testing and demonstrating queries interactively)
+notebook==7.1.3
